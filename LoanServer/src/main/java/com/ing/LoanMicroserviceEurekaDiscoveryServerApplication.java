@@ -12,4 +12,6 @@ public class LoanMicroserviceEurekaDiscoveryServerApplication {
 		SpringApplication.run(LoanMicroserviceEurekaDiscoveryServerApplication.class, args);
 	}
 
+	
+	
 }
